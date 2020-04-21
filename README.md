@@ -26,9 +26,9 @@ yarn server
 
 ### :muscle: Resultado final da aplicação
 
-<center>
-  <img width="70%" src="img/final.png" alt="aplicação final" />
-<center>
+
+  <img  src="img/final.png" alt="aplicação final" />
+
 
 
 
